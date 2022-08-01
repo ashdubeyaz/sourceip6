@@ -1,0 +1,17 @@
+/Users/ashdubey/Projects/sourceip6/sourceip6/obj/Release/net6.0/PubTmp/Out/sourceip6
+/Users/ashdubey/Projects/sourceip6/sourceip6/obj/Release/net6.0/PubTmp/Out/appsettings.Development.json
+/Users/ashdubey/Projects/sourceip6/sourceip6/obj/Release/net6.0/PubTmp/Out/appsettings.json
+/Users/ashdubey/Projects/sourceip6/sourceip6/obj/Release/net6.0/PubTmp/Out/sourceip6.dll
+/Users/ashdubey/Projects/sourceip6/sourceip6/obj/Release/net6.0/PubTmp/Out/sourceip6.deps.json
+/Users/ashdubey/Projects/sourceip6/sourceip6/obj/Release/net6.0/PubTmp/Out/sourceip6.runtimeconfig.json
+/Users/ashdubey/Projects/sourceip6/sourceip6/obj/Release/net6.0/PubTmp/Out/sourceip6.pdb
+/Users/ashdubey/Projects/sourceip6/sourceip6/obj/Release/net6.0/PubTmp/Out/Azure.Core.dll
+/Users/ashdubey/Projects/sourceip6/sourceip6/obj/Release/net6.0/PubTmp/Out/Azure.Data.AppConfiguration.dll
+/Users/ashdubey/Projects/sourceip6/sourceip6/obj/Release/net6.0/PubTmp/Out/Azure.Identity.dll
+/Users/ashdubey/Projects/sourceip6/sourceip6/obj/Release/net6.0/PubTmp/Out/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ashdubey/Projects/sourceip6/sourceip6/obj/Release/net6.0/PubTmp/Out/Microsoft.Identity.Client.dll
+/Users/ashdubey/Projects/sourceip6/sourceip6/obj/Release/net6.0/PubTmp/Out/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/ashdubey/Projects/sourceip6/sourceip6/obj/Release/net6.0/PubTmp/Out/Newtonsoft.Json.dll
+/Users/ashdubey/Projects/sourceip6/sourceip6/obj/Release/net6.0/PubTmp/Out/System.Memory.Data.dll
+/Users/ashdubey/Projects/sourceip6/sourceip6/obj/Release/net6.0/PubTmp/Out/System.Security.Cryptography.ProtectedData.dll
+/Users/ashdubey/Projects/sourceip6/sourceip6/obj/Release/net6.0/PubTmp/Out/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
